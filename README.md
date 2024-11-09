@@ -38,4 +38,5 @@
 
  **Additional requirements:**
    - Root/Administrator privileges may be required for Host Analysis Tool (hat.py)
+   - Using a virtual environment is highly recommended to isolate project dependencies and avoid conflicts with other Python projects. This ensures a cleaner and more predictable development environment.
 
