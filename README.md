@@ -28,7 +28,7 @@
    pip install scapy python-whois
    ```
 
- - **Debian:**
+ - **Linux / Debian:**
 
    ```bash
     sudo apt install python3-scapy libpcap-dev whois tcpdump
